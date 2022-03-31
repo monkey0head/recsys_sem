@@ -1,2 +1,1 @@
-# recsys_sem
-Tutorial on recommender systems for YSDA 2021
+## Tutorial on recommender systems for YSDA Machine Learing course
