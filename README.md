@@ -1,1 +1,1 @@
-## Tutorial on recommender systems for YSDA Machine Learing course
+## Tutorial on recommender systems for YSDA Machine Learning course
